@@ -1,5 +1,5 @@
 # Hristian-Balevski
-![logo](https://github.com/HristianBalevski/About-Me/blob/main/GitHub%20Banner.jpg)
+![logo](https://github.com/HristianBalevski/HristianBalevski/blob/main/GitHub%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Hristian Balevski</h1>
 <h3 align="center">I am a student at SoftUni, the largest tech education provider in South-Eastern Europe.</h3>
 
