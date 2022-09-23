@@ -7,9 +7,8 @@
 - 📫 How to reach me **hb.hris.bal@gmail.com**
 
 - ⚡ Fun fact **I am funny, but only smart people can understand my sense of humor. :)**
-
-<h3 align="left">Connect with me:</h3>
 ![logo](https://github.com/HristianBalevski/HristianBalevski/blob/main/GitHub%20Banner.jpg)
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
