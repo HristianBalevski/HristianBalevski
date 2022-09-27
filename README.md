@@ -4,11 +4,11 @@
 
 ![logo](https://quiz.softuni.bg/Content/images/softuni-wizard.png)
 
-- 🌱 I’m currently learning **Programming with Python**
+- 🌱 I’m currently learning: **Programming with Python**
 
-- 📫 How to reach me **hb.hris.bal@gmail.com**
+- 📫 How to reach me: **hb.hris.bal@gmail.com**
 
-- ⚡ Fun fact **The description about fun fact is down below, but only people that can speak Bulgarian will understand my sense of humour.**
+- ⚡ Fun fact: **The description about fun fact is down below, but only people that can speak Bulgarian will understand my sense of humour.**
 
 В училище за програмисти, млад питон се заглежда по една симпатична джаварка от другия курс, и решава да се пробва. Набира смелост, приближава се, и решава освен чар да покаже и интелект. 
 
