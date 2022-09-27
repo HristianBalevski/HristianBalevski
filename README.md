@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hb.hris.bal@gmail.com**
 
-- ⚡ Fun fact **The description about fun fact is down below but is only people that can speak Bulgarian will can understand my sense of humour.**
+- ⚡ Fun fact **The description about fun fact is down below but is for only people that can speak Bulgarian will can understand my sense of humour.**
 
 В училище за програмисти, млад питон се заглежда по една симпатична джаварка от другия курс, и решава да се пробва. Набира смелост, приближава се, и решава освен чар да покаже и интелект. 
 
