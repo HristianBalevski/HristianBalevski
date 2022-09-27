@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I am funny, but only smart people can understand my sense of humour. :)**
 
-![logo](https://github.com/HristianBalevski/HristianBalevski/blob/main/GitHub%20Banner.jpg)
+![logo](https://quiz.softuni.bg/Content/images/softuni-wizard.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
