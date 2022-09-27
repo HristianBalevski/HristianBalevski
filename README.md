@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Hristian Balevski</h1>
 <h3 align="center">I am a student at SoftUni, the largest tech education provider in South-Eastern Europe.</h3>
 
+![logo](https://quiz.softuni.bg/Content/images/softuni-wizard.png)
+
 - 🌱 I’m currently learning **Programming with Python**
 
 - 📫 How to reach me **hb.hris.bal@gmail.com**
 
-- ⚡ Fun fact **I am funny, but only smart people can understand my sense of humour. :)**
+- ⚡ Fun fact **I am funny, but only smart people can understand my sense of humour.**
 
-![logo](https://quiz.softuni.bg/Content/images/softuni-wizard.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
