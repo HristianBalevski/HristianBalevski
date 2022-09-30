@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hristian Balevski</h1>
 <h3 align="center">I am a student at SoftUni, the largest tech education provider in South-Eastern Europe.</h3>
 
-![logo](https://quiz.softuni.bg/Content/images/softuni-wizard.png)
+![logo](https://nakov.com/wp-content/uploads/2017/08/SoftUni-brands.jpg)
 
 - 🌱 I’m currently learning: **Programming with Python**
 
@@ -18,6 +18,8 @@
 - Ти пък бъгна още на първата if проверка... 
 - Няма страшно, отвръща нахъсаният питон. 
 - Сега ще те дебъгна и ще ти пренапиша целия код!
+
+![logo](https://quiz.softuni.bg/Content/images/softuni-wizard.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
