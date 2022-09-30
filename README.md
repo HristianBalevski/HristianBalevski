@@ -4,7 +4,7 @@
 
 ![logo](https://softuni.bg/Files/Publications/2016/01/softuni-26_17484687.jpg)
 
-- 🌱 I’m currently learning: **Programming with Python**
+- 🌱 I’m currently learning **Programming with Python**
 
 - 📫 How to reach me: **hb.hris.bal@gmail.com**
 
