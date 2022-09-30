@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hristian Balevski</h1>
 <h3 align="center">I am a student at SoftUni, the largest tech education provider in South-Eastern Europe.</h3>
 
-![logo](https://nakov.com/wp-content/uploads/2017/08/SoftUni-brands.jpg)
+![logo](https://softuni.bg/Files/Publications/2016/01/softuni-26_17484687.jpg)
 
 - 🌱 I’m currently learning: **Programming with Python**
 
