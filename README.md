@@ -21,7 +21,6 @@
 
 ![logo](https://quiz.softuni.bg/Content/images/softuni-wizard.png)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
