@@ -23,7 +23,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&count_private=true&show_icons=true&theme=radical)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hristianbalevski&show_icons=true&theme=radical)
 
 <img align="right" alt="Wizard" src="https://quiz.softuni.bg/Content/images/softuni-wizard.png">
 
