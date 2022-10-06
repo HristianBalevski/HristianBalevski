@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hristian</h1>
 <h3 align="center">I am a student at SoftUni, the largest tech education provider in South-Eastern Europe.</h3>
 
-! align="center">[logo](https://softuni.bg/Files/Publications/2016/01/softuni-26_17484687.jpg)
+![logo](https://softuni.bg/Files/Publications/2016/01/softuni-26_17484687.jpg)
 
-- 🌱 I’m currently learning **Programming with Python**
+- 🌱 I’m currently learning Programming with Python
 
 - 💬 Ask me about anything, I am happy to help
 
