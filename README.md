@@ -21,7 +21,7 @@
 - Няма страшно, отвръща нахъсаният питон. 
 - Сега ще те дебъгна и ще ти пренапиша целия код!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&count_private=true&show_icons=true&theme=radical)
+
 
 <img align="right" alt="Wizard" src="https://quiz.softuni.bg/Content/images/softuni-wizard.png">
 
