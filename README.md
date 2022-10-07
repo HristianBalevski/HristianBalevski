@@ -4,7 +4,7 @@
 <img align="center" alt="SoftUni" src="https://softuni.bg/Files/Publications/2016/01/softuni-26_17484687.jpg">
 
 
-- 🌱 I’m currently learning ** Programming with Python**
+- 🌱 I’m currently learning **Programming with Python**
 
 - 💬 Ask me about **anything, I am happy to help**
 
