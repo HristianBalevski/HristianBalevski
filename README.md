@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫 How to reach me **hb.hris.bal@gmail.com**
+- 📫 How to reach me **Discord:** Hristian#3785
 
 - ⚡ Fun fact ****The description about fun fact is down below, but only people that can speak Bulgarian will understand my sense of humour.****
 
