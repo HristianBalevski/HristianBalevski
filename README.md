@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hristian</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hristianbalevski&label=Profile%20views&color=0e75b6&style=flat" alt="hristianbalevski" /> </p>
-<h3 align="left">I am a student at SoftUni, the largest tech education provider in South-Eastern Europe.</h3>
+<p align="centert"> <img src="https://komarev.com/ghpvc/?username=hristianbalevski&label=Profile%20views&color=0e75b6&style=flat" alt="hristianbalevski" /> </p>
+<h4 align="center">I am a student at SoftUni, the largest tech education provider in South-Eastern Europe.</h4>
 <img align="center" alt="SoftUni" src="https://softuni.bg/Files/Publications/2016/01/softuni-26_17484687.jpg">
 
 
