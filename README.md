@@ -1,28 +1,24 @@
-<h1 align="center">Hi 👋, I'm Hristian</h1>
-<p align="centert"> <img src="https://komarev.com/ghpvc/?username=hristianbalevski&label=Profile%20views&color=0e75b6&style=flat" alt="hristianbalevski" /> </p>
-<h4 align="center">I am a student at SoftUni, the largest tech education provider in South-Eastern Europe.</h4>
-<img align="center" alt="SoftUni" src="https://softuni.bg/Files/Publications/2016/01/softuni-26_17484687.jpg">
+<h3 align="left">Hi, I'm Hristian Balevski!👋</h3>
+
+I am studying at SoftUni the largest tech education provider in South-Eastern Europe.
+
+![giphy](https://user-images.githubusercontent.com/114162692/208071627-44e7cbf0-5a20-424e-9664-982386cb4bf5.gif)
 
 
-- 🌱 I’m currently learning **Programming with Python**
 
-- 💬 Ask me about **anything, I am happy to help**
+- 🌱 I’m currently learning how to become a better developer. :slightly_smiling_face:
+
+- 💬 Ask me about anything, I am happy to help!
 
 - 📫 Reach me **Discord:** Hristian#3785
 
-- ⚡ Fun fact ****The description about fun fact is down below, but only people that can speak Bulgarian will understand my sense of humour.****
+- ⚡ Fun fact I love to read books and play chess.
 
-В училище за програмисти, млад питон се заглежда по една симпатична джаварка от другия курс, и решава да се пробва. Набира смелост, приближава се, и преценява, че ще е добре освен чар да покаже и интелект. 
-
-- Здравейте, колежке, казва той. 
-- Мисля да врътна един while цикъл, и ако успея да ви уцеля името ще ми дадете ли вашия GitHub?
-- Еее, колега, прави се на недостъпна джаварката.
-- Ти пък бъгна още на първата if проверка... 
-- Няма страшно, отвръща нахъсаният питон. 
-- Сега ще те дебъгна и ще ти пренапиша целия код!
+![giphy](https://user-images.githubusercontent.com/114162692/208070134-ffa1527c-d937-4258-a3c4-b0b99bdc5171.gif)
 
 
 
+</p>
 <img align="right" alt="Wizard" src="https://quiz.softuni.bg/Content/images/softuni-wizard.png">
 
 </p>
