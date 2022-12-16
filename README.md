@@ -2,17 +2,17 @@
 
 I am studying at SoftUni the largest tech education provider in South-Eastern Europe.
 
+- 🌱 I’m currently learning how to become a better developer. :slightly_smiling_face:
+
 ![giphy](https://user-images.githubusercontent.com/114162692/208071627-44e7cbf0-5a20-424e-9664-982386cb4bf5.gif)
 
-
-
-- 🌱 I’m currently learning how to become a better developer. :slightly_smiling_face:
+- 📫 How to reach me: **Discord:** Hristian#3785
 
 - 💬 Ask me about anything, I am happy to help!
 
-- 📫 Reach me **Discord:** Hristian#3785
-
 - ⚡ Fun fact I love to read books and play chess.
+
+- 👯 I'm looking to collaborate with nice people.
 
 ![giphy](https://user-images.githubusercontent.com/114162692/208070134-ffa1527c-d937-4258-a3c4-b0b99bdc5171.gif)
 
