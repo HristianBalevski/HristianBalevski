@@ -10,13 +10,13 @@ I am studying at SoftUni the largest tech education provider in South-Eastern Eu
 
 - 💬 Ask me about anything, I am happy to help!
 
-- ⚡ Fun fact I love to read books and play chess.
+- ⚡ Fun fact I love to read books and play chess!
 
-- 👯 I'm looking to collaborate with nice people.
+- 🎯 My goal is to learn new things every day!
+
+- 🤝 I'm looking to collaborate with nice people!
 
 ![giphy](https://user-images.githubusercontent.com/114162692/208070134-ffa1527c-d937-4258-a3c4-b0b99bdc5171.gif)
-
-
 
 </p>
 <img align="right" alt="Wizard" src="https://quiz.softuni.bg/Content/images/softuni-wizard.png">
