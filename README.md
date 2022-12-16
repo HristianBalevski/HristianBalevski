@@ -10,7 +10,7 @@ I am studying at SoftUni the largest tech education provider in South-Eastern Eu
 
 - 💬 Ask me about anything, I am happy to help!
 
-- ⚡ Fun fact I love to read books and play chess!
+- ⚡ Fun fact: I love to read books and play chess!
 
 - 🎯 My goal is to learn new things every day!
 
