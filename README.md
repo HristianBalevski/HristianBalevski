@@ -2,7 +2,7 @@
 
 I am a student at SoftUni, the largest tech education provider in South-Eastern Europe.
 
-- 🌱 I’m currently learning how to become a better developer. :slightly_smiling_face:
+- 🌱 I'm currently learning how to become a better developer. :slightly_smiling_face:
 
 ![giphy](https://user-images.githubusercontent.com/114162692/208071627-44e7cbf0-5a20-424e-9664-982386cb4bf5.gif)
 
