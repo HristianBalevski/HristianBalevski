@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm Hristian Balevski!👋</h3>
 
-I am a student at [SoftUni](softuni.bg), the largest tech education provider in South-Eastern Europe.
+I am a student at [SoftUni](https://softuni.bg), the largest tech education provider in South-Eastern Europe.
 
 - 🌱 I'm currently learning how to become a better developer. :slightly_smiling_face:
 
