@@ -6,7 +6,7 @@ I am a student at SoftUni, the largest tech education provider in South-Eastern 
 
 ![giphy](https://user-images.githubusercontent.com/114162692/208071627-44e7cbf0-5a20-424e-9664-982386cb4bf5.gif)
 
-- 📫 How to reach me: **Discord:** Hristian#3785
+- 📫 How to reach me: hb.hris.bal@gmail.com
 
 - 💬 Ask me about anything, I am happy to help!
 
