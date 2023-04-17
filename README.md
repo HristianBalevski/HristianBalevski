@@ -23,14 +23,12 @@ I am a student at [SoftUni](https://softuni.bg), the largest tech education prov
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hristianbalevski&show_icons=true&locale=en&layout=compact" alt="hristianbalevski" /></p>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&theme=gradient&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&theme=swift&show_icons=true)
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hristianbalevski&hide_border=true&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D&sideLabels=FFFFFF&ring=FFFFFF&stroke=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&background=45%2CEB0000%2CEB0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hristianbalevski&theme=rose&background=45%2C7C76757F%2CFFFFFF&ring=C90B0B&fire=FFFFFF&currStreakNum=C90B0B&sideNums=C90B0B&currStreakLabel=C90B0B&sideLabels=C90B0B&dates=000000&stroke=C90B0B)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hristianbalevski&theme=nord_bright)
