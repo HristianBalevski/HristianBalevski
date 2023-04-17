@@ -20,15 +20,12 @@ I am a student at [SoftUni](https://softuni.bg), the largest tech education prov
 
 </p>
 <img align="right" alt="Wizard" src="https://quiz.softuni.bg/Content/images/softuni-wizard.png">
-
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&theme=swift&show_icons=true)
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hristianbalevski&theme=rose&background=45%2C7C76757F%2CFFFFFF&ring=C90B0B&fire=FFFFFF&currStreakNum=C90B0B&sideNums=C90B0B&currStreakLabel=C90B0B&sideLabels=C90B0B&dates=000000&stroke=C90B0B)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hristianbalevski=swift)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hristianbalevski&theme=nord_bright)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hristianbalevski&theme=rose&background=45%2C7C76757F%2CFFFFFF&ring=C90B0B&fire=FFFFFF&currStreakNum=C90B0B&sideNums=C90B0B&currStreakLabel=C90B0B&sideLabels=C90B0B&dates=000000&stroke=C90B0B)](https://git.io/streak-stats)
