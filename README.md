@@ -23,6 +23,8 @@ I am a student at [SoftUni](https://softuni.bg), the largest tech education prov
 </p>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hristianbalevski&hide_progress=true)](https://github.com/hristianbalevski/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&theme=swift&show_icons=true)
 <br>
 
