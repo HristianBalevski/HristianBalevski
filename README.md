@@ -30,7 +30,7 @@ I am a student at [SoftUni](https://softuni.bg), the largest tech education prov
 <br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&theme=swift&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&theme=gradient&show_icons=true)
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hristianbalevski&theme=swift)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hristianbalevski&hide_border=true&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D&sideLabels=FFFFFF&ring=FFFFFF&stroke=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&background=45%2CEB0000%2CEB0000)](https://git.io/streak-stats)
