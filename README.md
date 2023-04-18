@@ -5,7 +5,6 @@
                                               <p align="center"><strong>Why I decided to learn programming?</strong> </p> 
 Learning new things has always been empowering for me. It is not about the subject or topic, it is about the way it expands my worldview and provides me with new ideas. Learning something new forces me to keep my mind active and pushes me to try new things.
 <br>
-<br>
 <div align="left">
   
 - 📫 How to reach me: hb.hris.bal@gmail.com
