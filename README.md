@@ -6,6 +6,8 @@ I am a student at [SoftUni](https://softuni.bg), the largest tech education prov
 
 ![giphy](https://user-images.githubusercontent.com/114162692/208071627-44e7cbf0-5a20-424e-9664-982386cb4bf5.gif)
 
+<img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=hristianbalevski&layout=compact">
+
 - 📫 How to reach me: hb.hris.bal@gmail.com
 
 - 💬 Ask me about anything, I am happy to help!
@@ -19,6 +21,7 @@ I am a student at [SoftUni](https://softuni.bg), the largest tech education prov
 ![giphy](https://user-images.githubusercontent.com/114162692/208070134-ffa1527c-d937-4258-a3c4-b0b99bdc5171.gif)
 
 </p>
+
 <img align="right" alt="Wizard" src="https://quiz.softuni.bg/Content/images/softuni-wizard.png">
 </p>
 <br>
