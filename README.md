@@ -55,7 +55,5 @@ Learning new things has always been empowering for me. It is not about the subje
     
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hristianbalevski&layout=compact&show_icons=true&theme=chartreuse-dark&border_radius=20)
-
-![giphy](https://user-images.githubusercontent.com/114162692/208071627-44e7cbf0-5a20-424e-9664-982386cb4bf5.gif)
 </div>
     
