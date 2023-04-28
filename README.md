@@ -1,23 +1,13 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Welcome to my GitHub Profile </h1>
 
-![GitHub Banner](https://user-images.githubusercontent.com/114162692/232827659-6ae658b0-678b-42fc-81f3-f9573f3af89b.png)
+
+![GitHub Banner](https://user-images.githubusercontent.com/114162692/235094263-03eee7e6-9620-49d0-8faa-bd021e3ff6d6.mp4)
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-                                              <p align="center"><strong>Why I decided to learn programming?</strong> </p> 
-Learning new things has always been empowering for me. It is not about the subject or topic, it is about the way it expands my worldview and provides me with new ideas. Learning something new forces me to keep my mind active and pushes me to try new things.
-<br>
-<div align="left">
+                                              
+<div align="center">
   
-- 📫 How to reach me: hb.hris.bal@gmail.com
+📫 How to reach me: hb.hris.bal@gmail.com
 
-- 💬 Ask me about anything, I am happy to help!
-
-- ⚡ Fun fact: I love to read books and play chess!
-
-- 🎯 My goal is to learn new things every day!
-
-- 🤝 I'm looking to collaborate with nice people!
-
-![giphy](https://user-images.githubusercontent.com/114162692/208070134-ffa1527c-d937-4258-a3c4-b0b99bdc5171.gif)
+![giphy](https://user-images.githubusercontent.com/114162692/235103239-7088783d-f7b9-4441-8a20-65628feab257.mp4)
 </div>
 </p> 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
