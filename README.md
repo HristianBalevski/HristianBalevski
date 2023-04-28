@@ -5,8 +5,8 @@
                                               
 <div align="center">
   
-📫 How to reach me: hb.hris.bal@gmail.com
-
+<br>
+  
 ![GitHub Info](https://user-images.githubusercontent.com/114162692/235105996-ecf4b718-236c-4c7e-a2d0-a82f51c4c583.mp4)
 </div>
 </p> 
