@@ -7,7 +7,7 @@
   
 📫 How to reach me: hb.hris.bal@gmail.com
 
-![giphy](https://user-images.githubusercontent.com/114162692/235103239-7088783d-f7b9-4441-8a20-65628feab257.mp4)
+![GitHub Info](https://user-images.githubusercontent.com/114162692/235105996-ecf4b718-236c-4c7e-a2d0-a82f51c4c583.mp4)
 </div>
 </p> 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
