@@ -23,6 +23,8 @@ Welcome to my GitHub profile!
 ## 💬 Let's Connect
 
 I'm always open to connecting with fellow programmers and learning from each other. Feel free to reach out to me on: 
+
+✉️ Email: hb.hris.bal@gmail.com
  
 
 ## 📈 GitHub Stats
