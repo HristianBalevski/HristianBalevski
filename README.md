@@ -30,8 +30,10 @@ I'm always open to connecting with fellow programmers and learning from each oth
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hristianbalevski&count_private=true&theme=chartreuse-dark&border_radius=10)
-
 ![Hristian Balevski's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&hide=stars&count_private=true&show_icons=true&theme=chartreuse-dark&border_radius=15)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hristianbalevski&layout=compact&show_icons=true&theme=chartreuse-dark&border_radius=20)
+
+
+
+
+
