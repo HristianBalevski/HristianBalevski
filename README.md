@@ -16,15 +16,16 @@ Welcome to my GitHub profile!
 - Programming Languages: Python
 
 ## 📚 Education
-
-- 🎓 I'am studying at Software University (SoftUni)
-- 🌟 Let's learn and grow together in the world of programming!
+- 🎓 Completed secondary education at PGMET Lovech.
+- 📚 Currently I'am studying at Software University (SoftUni).
 
 ## 💬 Let's Connect
 
 I'm always open to connecting with fellow programmers and learning from each other. Feel free to reach out to me on: 
 
 ✉️ Email: hb.hris.bal@gmail.com
+## 📖 Learn with Me
+🌟 Let's learn and grow together in the world of programming!
  
 
 ## 📈 GitHub Stats
