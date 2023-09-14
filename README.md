@@ -24,6 +24,14 @@ Welcome to my GitHub profile!
 I'm always open to connecting with fellow programmers and learning from each other. Feel free to reach out to me on: 
 
 ✉️ Email: hb.hris.bal@gmail.com
+
+![icons8-linkedin-16](https://github.com/HristianBalevski/HristianBalevski/assets/114162692/c6240e5c-e143-4993-b0f3-0839fbad0ac0) Linkedin:
+ [Hristian Balevski](https://www.linkedin.com/in/hristian-balevski-73575a285/)
+
+
+
+
+
 ## 📖 Learn with Me
 🌟 Let's learn and grow together in the world of programming!
  
