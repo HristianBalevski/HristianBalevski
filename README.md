@@ -1,4 +1,4 @@
-# Hello, I'm Hristian 👋
+![image](https://github.com/HristianBalevski/HristianBalevski/assets/114162692/46abb03c-5a49-4184-bf7f-8c9ef4008a70)# Hello, I'm Hristian 👋
 
 I'm a passionate programming enthusiast on a journey to master the world of code. 🚀 
 Currently, I'm pursuing my studies in programming and diving headfirst into the fascinating realm of computer science.
@@ -12,10 +12,10 @@ Welcome to my GitHub profile!
 - 🌐 I'm fascinated by the endless possibilities of web development and software engineering.
 
 ## 📚 Education
-- 🎓 Completed secondary education at PGMET Lovech.
-- 📚 Currently I'am studying at Software University (SoftUni).
+- 👨‍🎓 Completed secondary education at PGMET Lovech.
+- 🏫 Currently I'am studying at Software University (SoftUni).
 
-## My Finished Courses
+## 🧑‍💻 My Finished Courses
 - [Programming Basics - April 2022](https://softuni.bg/certificates/details/134395/abf11efb)
 - [Programming Fundamentals with Python - September 2022](https://softuni.bg/certificates/details/151546/01c8cef8)
 - [Python Advanced - January 2023](https://softuni.bg/certificates/details/159270/c5e4c327)
