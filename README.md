@@ -11,13 +11,19 @@ Welcome to my GitHub profile!
 - 💻 Coding is not just a hobby but my future career path.
 - 🌐 I'm fascinated by the endless possibilities of web development and software engineering.
 
-## 🔧 Skills
-
-- Programming Languages: Python
-
 ## 📚 Education
 - 🎓 Completed secondary education at PGMET Lovech.
 - 📚 Currently I'am studying at Software University (SoftUni).
+
+## My Finished Courses
+- [Programming Basics - April 2022](https://softuni.bg/users/profile/certificates?username=HristianB)
+- [Programming Fundamentals with Python - September 2022](https://softuni.bg/users/profile/certificates?username=HristianB)
+- [Python Advanced - January 2023](https://softuni.bg/users/profile/certificates?username=HristianB)
+- [Python OOP - February 2023](https://softuni.bg/users/profile/certificates?username=HristianB)
+
+## 🔧 Skills
+
+- Programming Languages: Python
 
 ## 💬 Let's Connect
 
