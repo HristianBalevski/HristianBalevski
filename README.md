@@ -1,4 +1,4 @@
- Hello, I'm Hristian 👋
+Hello, I'm Hristian 👋
 
 I'm a passionate programming enthusiast on a journey to master the world of code. 🚀 
 Currently, I'm pursuing my studies in programming and diving headfirst into the fascinating realm of computer science.
