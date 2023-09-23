@@ -16,10 +16,10 @@ Welcome to my GitHub profile!
 - 📚 Currently I'am studying at Software University (SoftUni).
 
 ## My Finished Courses
-- [Programming Basics - April 2022](https://softuni.bg/users/profile/certificates?username=HristianB)
-- [Programming Fundamentals with Python - September 2022](https://softuni.bg/users/profile/certificates?username=HristianB)
-- [Python Advanced - January 2023](https://softuni.bg/users/profile/certificates?username=HristianB)
-- [Python OOP - February 2023](https://softuni.bg/users/profile/certificates?username=HristianB)
+- [Programming Basics - April 2022](https://softuni.bg/certificates/details/134395/abf11efb)
+- [Programming Fundamentals with Python - September 2022](https://softuni.bg/certificates/details/151546/01c8cef8)
+- [Python Advanced - January 2023](https://softuni.bg/certificates/details/159270/c5e4c327)
+- [Python OOP - February 2023](https://softuni.bg/certificates/details/168117/e74a58b0)
 
 ## 🔧 Skills
 
