@@ -5,7 +5,7 @@ Currently, I'm pursuing my studies in programming and diving headfirst into the 
 
 Welcome to my GitHub profile!
 
-## About Me
+## 👦🏻 About Me
 
 - 📚 I'm a dedicated student, always eager to learn and explore new technologies.
 - 💻 Coding is not just a hobby but my future career path.
