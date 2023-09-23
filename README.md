@@ -7,12 +7,12 @@ Welcome to my GitHub profile!
 
 ## 👦🏻 About Me
 
-- 📚 I'm a dedicated student, always eager to learn and explore new technologies.
+- 👨‍🎓 I'm a dedicated student, always eager to learn and explore new technologies.
 - 💻 Coding is not just a hobby but my future career path.
 - 🌐 I'm fascinated by the endless possibilities of web development and software engineering.
 
 ## 📚 Education
-- 👨‍🎓 Completed secondary education at PGMET Lovech.
+- 📖 Completed secondary education at PGMET Lovech.
 - 🏫 Currently I'am studying at Software University (SoftUni).
 
 ## 🧑‍💻 My Finished Courses
