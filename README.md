@@ -1,4 +1,4 @@
-![image](https://github.com/HristianBalevski/HristianBalevski/assets/114162692/46abb03c-5a49-4184-bf7f-8c9ef4008a70)# Hello, I'm Hristian 👋
+ Hello, I'm Hristian 👋
 
 I'm a passionate programming enthusiast on a journey to master the world of code. 🚀 
 Currently, I'm pursuing my studies in programming and diving headfirst into the fascinating realm of computer science.
