@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 
 ## 🔧 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,linkedin,git,github)](https://skillicons.dev)
 
 ## 💬 Let's Connect
 
