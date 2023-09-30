@@ -20,6 +20,7 @@ Welcome to my GitHub profile!
 - [Programming Fundamentals with Python - September 2022](https://softuni.bg/certificates/details/151546/01c8cef8)
 - [Python Advanced - January 2023](https://softuni.bg/certificates/details/159270/c5e4c327)
 - [Python OOP - February 2023](https://softuni.bg/certificates/details/168117/e74a58b0)
+- [Additional Certificates](https://github.com/HristianBalevski/Certificates/blob/main/README.md)
 
 ## 🔧 Skills
 
