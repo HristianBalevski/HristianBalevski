@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 
 ## 🔧 Skills
 
-- Programming Languages: Python
+[![My Skills](https://skillicons.dev/icons?i=py,postgres)](https://skillicons.dev)
 
 ## 💬 Let's Connect
 
