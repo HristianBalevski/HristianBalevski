@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 
 ## 🔧 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,git,github,linkedin,replit,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,github,linkedin,replit,vscode)](https://skillicons.dev)
 
 ## 💬 Let's Connect
 
