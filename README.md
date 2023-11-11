@@ -30,11 +30,14 @@ Welcome to my GitHub profile!
 ## 💬 Let's Connect
 
 I'm always open to connecting with fellow programmers and learning from each other. Feel free to reach out to me on: 
+ 
+[![Facebook](https://img.icons8.com/color/60/000000/facebook.png)](https://www.facebook.com/profile.php?id=100048516571940)
+[![LinkedIn](https://img.icons8.com/color/60/000000/linkedin.png)](https://www.linkedin.com/in/hristian-balevski/)
+[![Email](https://img.icons8.com/color/60/000000/email.png)](mailto:hb.hris.bal@gmail.com)
 
-✉️ Email: hb.hris.bal@gmail.com
 
-![icons8-linkedin-16](https://github.com/HristianBalevski/HristianBalevski/assets/114162692/c6240e5c-e143-4993-b0f3-0839fbad0ac0) Linkedin:
- [Hristian Balevski](https://www.linkedin.com/in/hristian-balevski-73575a285/)
+
+
 
 
 
