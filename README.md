@@ -21,6 +21,7 @@ Welcome to my GitHub profile!
 - [Python Advanced - January 2023](https://softuni.bg/certificates/details/159270/c5e4c327)
 - [Python OOP - February 2023](https://softuni.bg/certificates/details/168117/e74a58b0)
 - [PostgreSQL - September 2023](https://softuni.bg/certificates/details/185971/3c2d2d29)
+- [Python ORM - October 2023](https://softuni.bg/certificates/details/193778/0157e90a)
 
 ## 🔧 Skills
 
