@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&pause=1000&color=000000&random=false&width=435&lines=Hello%2C+I'm+Hristian+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&duration=3000&pause=1000&color=000000&multiline=true&random=false&width=600&lines=Hello%2C+I'm+Hristian+%F0%9F%91%8B;Welcome+to+my+GitHub+profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 ## 👦🏻 About Me
 
@@ -30,22 +30,14 @@ I'm always open to connecting with fellow programmers and learning from each oth
 [![LinkedIn](https://img.icons8.com/color/60/000000/linkedin.png)](https://www.linkedin.com/in/hristian-balevski/)
 [![Email](https://img.icons8.com/color/60/000000/email.png)](mailto:hb.hris.bal@gmail.com)
 
-
-
-
-
-
-
-
-
-## 📖 Learn with Me
-🌟 Let's learn and grow together in the world of programming!
- 
-
 ## 📈 GitHub Stats
 
 ![Hristian Balevski's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&hide=stars&count_private=true&show_icons=true&theme=chartreuse-dark&border_radius=15)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hristianbalevski&layout=compact&show_icons=true&theme=chartreuse-dark&border_radius=20)
+
+ 
+
+
 
 
 
