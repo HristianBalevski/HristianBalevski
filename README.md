@@ -21,6 +21,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,pycharm,js,html,css,vscode,postgres,github)](https://skillicons.dev)
 
+## 📈 GitHub Stats
+
+![Hristian Balevski's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&hide=stars&count_private=true&show_icons=true&theme=chartreuse-dark&border_radius=15)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hristianbalevski&layout=compact&show_icons=true&theme=chartreuse-dark&border_radius=20)
+
 ## 💬 Let's Connect
 
 I'm always open to connecting with fellow programmers and learning from each other. Feel free to reach out to me on: 
@@ -28,11 +33,6 @@ I'm always open to connecting with fellow programmers and learning from each oth
 [![Facebook](https://img.icons8.com/color/60/000000/facebook.png)](https://www.facebook.com/profile.php?id=100048516571940)
 [![LinkedIn](https://img.icons8.com/color/60/000000/linkedin.png)](https://www.linkedin.com/in/hristian-balevski/)
 [![Email](https://img.icons8.com/color/60/000000/email.png)](mailto:hb.hris.bal@gmail.com)
-
-## 📈 GitHub Stats
-
-![Hristian Balevski's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hristianbalevski&hide=stars&count_private=true&show_icons=true&theme=chartreuse-dark&border_radius=15)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hristianbalevski&layout=compact&show_icons=true&theme=chartreuse-dark&border_radius=20)
 
  
 
