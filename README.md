@@ -1,9 +1,4 @@
-Hello, I'm Hristian 👋
-
-I'm a passionate programming enthusiast on a journey to master the world of code. 🚀 
-Currently, I'm pursuing my studies in programming and diving headfirst into the fascinating realm of computer science.
-
-Welcome to my GitHub profile!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&pause=1000&color=000000&random=false&width=435&lines=Hello%2C+I'm+Hristian+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ## 👦🏻 About Me
 
