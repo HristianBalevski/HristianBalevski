@@ -1,4 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&duration=3000&pause=1000&color=000000&multiline=true&random=false&height=70&lines=Hello%2C+I'm+Hristian+%F0%9F%91%8B;Welcome+to+my+GitHub+profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
+![white and black](https://github.com/HristianBalevski/HristianBalevski/assets/114162692/9bb34a50-fea2-4c9b-afce-99099a634a8f)
+
+
 ## 👦🏻 About Me
 
 - 👨‍🎓 I'm a dedicated student, always eager to learn and explore new technologies.
