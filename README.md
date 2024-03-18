@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&duration=3000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello%2C+;My+name+is+Hristian++Balevski+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%F0%9F%99%82" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&duration=3000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello+%F0%9F%91%8B;My+name+is+Hristian++Balevski+%F0%9F%91%A6%F0%9F%8F%BB;Welcome+to+my+GitHub+Profile+%F0%9F%99%82" alt="Typing SVG" /></a>
 ![white and black](https://github.com/HristianBalevski/HristianBalevski/assets/114162692/9bb34a50-fea2-4c9b-afce-99099a634a8f)
 
 ## 👦🏻 About Me
