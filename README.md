@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=32&duration=3000&pause=1000&color=000000&multiline=true&random=false&width=435&height=85&lines=Hello%2C+I'm+Hristian+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%99%82" alt="Typing SVG" /></a>
+
 
 ## 👦🏻 About Me
 
