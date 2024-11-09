@@ -19,6 +19,7 @@
 - [Python ORM - October 2023](https://softuni.bg/certificates/details/193778/0157e90a)
 - [HTML & CSS - January 2024](https://softuni.bg/certificates/details/213495/c2ea0b38)
 - [JS Front-End - February 2024](https://softuni.bg/certificates/details/212186/74307d76)
+- [Django Basics - September 2024](https://softuni.bg/certificates/details/229592/65caab0c)
 
 ## 🔧 Skills
 
