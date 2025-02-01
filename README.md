@@ -2,9 +2,12 @@
 
 ## 👦🏻 About Me
 
-- 👨‍🎓 I'm a dedicated student, always eager to learn and explore new technologies.
-- 💻 Coding is not just a hobby but my future career path.
-- 🌐 I'm fascinated by the endless possibilities of web development and software engineering.
+- 👨‍🎓 Passionate learner exploring **Web Development, Software Engineering, and DevOps**. 
+- 💻 I enjoy building projects, solving problems, and continuously improving my skills.
+- 🌐 Enthusiastic about **Python, Django, Docker, CI/CD, and Cloud technologies**.
+- 📚 Always curious about new tools and best practices to grow as a developer.
+
+- 💡 *“The best way to predict the future is to create it.”*  
 
 ## 📚 Education
 - 📖 Completed secondary education at PGMET Lovech.
