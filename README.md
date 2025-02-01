@@ -13,7 +13,7 @@
 - 📖 Completed secondary education at PGMET Lovech.
 - 🏫 Currently I'am studying at Software University (SoftUni).
 
-## 🧑‍💻 My Finished Courses
+## 🧑‍💻 My Completed Courses
 - [Programming Basics - April 2022](https://softuni.bg/certificates/details/134395/abf11efb)
 - [Python Fundamentals - September 2022](https://softuni.bg/certificates/details/151546/01c8cef8)
 - [Python Advanced - January 2023](https://softuni.bg/certificates/details/159270/c5e4c327)
