@@ -7,6 +7,8 @@
 - 🌐 Enthusiastic about **Python, Django, Docker, CI/CD, and Cloud technologies**.
 - 📚 Always curious about new tools and best practices to grow as a developer.
 
+<br>
+
 - 💡 *“The best way to predict the future is to create it.”*  
 
 ## 📚 Education
