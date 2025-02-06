@@ -29,7 +29,7 @@
 
 ## 🔧 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,docker,postgres,github,pycharm,vscode,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,docker,github,html,css,pycharm,vscode)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
