@@ -27,6 +27,7 @@
 - [Django Basics - September 2024](https://softuni.bg/certificates/details/229592/65caab0c)
 - [Django Advanced - October 2024](https://softuni.bg/certificates/details/233181/d4a2d5e1)
 - [Software Engineering and DevOps - January 2025](https://softuni.bg/certificates/details/238866/cd5842f2)
+- ]Containers and Cloud - February 2025](https://softuni.bg/certificates/details/242436/27c99136)
 
 ## 🔧 Skills
 
